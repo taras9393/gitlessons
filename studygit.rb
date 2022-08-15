@@ -1,4 +1,4 @@
-arr = ["dfwsf", "dsfg", "wetr", "zxcv"]
+arr = ["dfwsf", "dsfg", "wetr", "lplook", "zxcv"]
 for i in arr
   puts(i.upcase)
 end
